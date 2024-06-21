@@ -11,13 +11,13 @@ Follow these steps to install the project:
    ```https://github.com/PanquecaFuriosa/Divide-and-Conquer-for-TSP```
 
 ## How to compile the project
-Follow these steps to compile the project:
-1. **Run the following bash command**:
+Follow these steps to compile the project:<br>
+1. **Run the following bash command**:<br>
    ```make```
 
 ## How to run the project
-Follow these steps to run the project:
-1. **Run the following bash command**:
+Follow these steps to run the project:<br>
+1. **Run the following bash command**:<br>
    ```./runDACTSP.sh input_file output_file```
 
 Where:<br>
