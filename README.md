@@ -7,7 +7,7 @@ To run this program, you must have the following installed:
   
 ## How to install the project
 Follow these steps to install the project:<br>
-1. **Clone the repository**: Clone the repository us<br>ing the following git command:<br>
+1. **Clone the repository**: Clone the repository using the following git command:<br>
    ```https://github.com/PanquecaFuriosa/Divide-and-Conquer-for-TSP```
 
 ## How to compile the project
