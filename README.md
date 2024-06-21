@@ -25,4 +25,7 @@ Where:<br>
 - Output file: consists of the tour that is the solution of the TSP instance in TSPLIB format.<br>
 
 Please note that in the TSPLIB format for files containing TSP solutions, a tour must always begin in the city identified with the number 1. You must add a comment indicating the distance of the solution tour on the second line of the output file. with the following format: COMMENT : Length X, where X is the length of the tour.
-For example, given the tour in Figure 1, the following comment should be added: COMMENT : Length 31.
+For example, given the tour in Figure 1, the following comment should be added: COMMENT : Length 31.<br>
+
+You will be provided with the following files:<br>
+etsp_instances: TSPLIB instances that should be executed by DACTSP.kt.
